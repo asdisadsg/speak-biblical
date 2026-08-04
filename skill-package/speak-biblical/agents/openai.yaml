@@ -1,0 +1,4 @@
+interface:
+  display_name: "Speak Biblical"
+  short_description: "将现代中文改写成早期和合本式半文半白语体并支持释白"
+  default_prompt: "Use $speak-biblical to rewrite this Chinese text in an early Chinese Union Version-inspired style."
