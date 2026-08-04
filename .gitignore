@@ -2,3 +2,16 @@
 *.bak
 .DS_Store
 Thumbs.db
+node_modules/
+.next/
+.open-next/
+.wrangler/
+out/
+test-runs/
+.env
+.env.local
+.env.*.local
+.dev.vars
+cloudflare-env.d.ts
+npm-debug.log*
+*.tsbuildinfo

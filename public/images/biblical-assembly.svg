@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">仿和合本译文腔书页</title>
+  <desc id="desc">旧纸色背景上的书卷、灯光与抽象文字线条</desc>
+  <defs>
+    <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#efe2c4"/><stop offset="1" stop-color="#c8a878"/>
+    </linearGradient>
+    <radialGradient id="glow"><stop stop-color="#fff3bd" stop-opacity=".8"/><stop offset="1" stop-color="#fff3bd" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1200" height="720" fill="#2d261e"/>
+  <circle cx="600" cy="250" r="330" fill="url(#glow)"/>
+  <path d="M120 160q230-55 445 35v410q-210-78-445-20z" fill="url(#paper)" stroke="#7a5c35" stroke-width="8"/>
+  <path d="M1080 160q-230-55-445 35v410q210-78 445-20z" fill="url(#paper)" stroke="#7a5c35" stroke-width="8"/>
+  <path d="M565 195q35 24 70 0v410q-35-20-70 0z" fill="#9a7445" opacity=".75"/>
+  <g stroke="#6d573c" stroke-width="9" stroke-linecap="round" opacity=".67">
+    <path d="M185 260h290M185 315h320M185 370h270M185 425h310M185 480h245"/>
+    <path d="M725 260h290M695 315h320M735 370h280M700 425h315M760 480h255"/>
+  </g>
+</svg>
