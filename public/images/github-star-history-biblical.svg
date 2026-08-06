@@ -43,12 +43,12 @@
   <text x="106" y="181.60" text-anchor="end" fill="#7a6247" font-family="Songti SC, STSong, SimSun, serif" font-size="13">八</text>
   <line x1="120" y1="124.00" x2="802" y2="124.00" stroke="#d9c29e" stroke-opacity="0.48"/>
   <text x="106" y="128.00" text-anchor="end" fill="#7a6247" font-family="Songti SC, STSong, SimSun, serif" font-size="13">十</text>
-  <line x1="260.25" y1="124" x2="260.25" y2="392" stroke="#ead6b7" stroke-opacity="0.54"/>
-  <text x="260.25" y="446" text-anchor="middle" fill="#7a6247" font-family="Songti SC, STSong, SimSun, serif" font-size="14">八月初五</text>
-  <line x1="534.33" y1="124" x2="534.33" y2="392" stroke="#ead6b7" stroke-opacity="0.54"/>
-  <text x="534.33" y="446" text-anchor="middle" fill="#7a6247" font-family="Songti SC, STSong, SimSun, serif" font-size="14">八月初六</text>
-  <line x1="802.00" y1="124" x2="802.00" y2="392" stroke="#ead6b7" stroke-opacity="0.54"/>
-  <text x="802.00" y="446" text-anchor="middle" fill="#7a6247" font-family="Songti SC, STSong, SimSun, serif" font-size="14">八月初七</text>
+  <line x1="255.72" y1="124" x2="255.72" y2="392" stroke="#ead6b7" stroke-opacity="0.54"/>
+  <text x="255.72" y="446" text-anchor="middle" fill="#7a6247" font-family="Songti SC, STSong, SimSun, serif" font-size="14">八月初五</text>
+  <line x1="516.46" y1="124" x2="516.46" y2="392" stroke="#ead6b7" stroke-opacity="0.54"/>
+  <text x="516.46" y="446" text-anchor="middle" fill="#7a6247" font-family="Songti SC, STSong, SimSun, serif" font-size="14">八月初六</text>
+  <line x1="777.21" y1="124" x2="777.21" y2="392" stroke="#ead6b7" stroke-opacity="0.54"/>
+  <text x="777.21" y="446" text-anchor="middle" fill="#7a6247" font-family="Songti SC, STSong, SimSun, serif" font-size="14">八月初七</text>
   <line x1="120" y1="392" x2="802" y2="392" stroke="#6c4f2e" stroke-width="1.6"/>
   <line x1="120" y1="124" x2="120" y2="392" stroke="#6c4f2e" stroke-width="1.6"/>
   <polygon points="120.00,392.00 120.00,392.00 802.00,392.00 802.00,392.00" fill="url(#area)"/>
